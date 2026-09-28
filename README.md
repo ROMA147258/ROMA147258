@@ -52,5 +52,3 @@
 ├── 📱 Responsive Universal: Accesibilidad WCAG 2.1 AA y navegación completa por teclado
 ├── 🧩 Modularidad: Clean Architecture desacoplada con 12-Factor App
 └── 🚀 Escalabilidad: Balanceo de carga Anycast Edge y micro-instancias Serverless
-
-![Snake animation](https://raw.githubusercontent.com/ROMA147258/ROMA147258/output/github-contribution-grid-snake-dark.svg)
