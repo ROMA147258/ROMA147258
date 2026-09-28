@@ -16,6 +16,10 @@
 
 ---
 
+## 🐍 Gráfico de Contribuciones (Snake)
+
+![Snake animation](https://raw.githubusercontent.com/ROMA147258/ROMA147258/output/github-contribution-grid-snake-dark.svg)
+
 ## 🛠️ Stack Tecnológico & Habilidades
 
 ### Frontend
